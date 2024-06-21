@@ -1,0 +1,15 @@
+{
+    "name": "chadrack/crur",
+    "autoload": {
+        "psr-4": {
+            "Chadrack\\Crur\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "emongo",
+            "email": "emongochadrack@gmail.com"
+        }
+    ],
+    "require": {}
+}
